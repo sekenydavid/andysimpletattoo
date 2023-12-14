@@ -1,0 +1,59 @@
+body {
+    background-image: url(/images/titulka-95.jpg);
+    background-size: cover;
+    background-position: center center;
+    background-attachment: fixed;
+    margin: 0;
+    padding: 0;
+}
+
+.container2 {
+    margin-top:;
+    margin-bottom:;
+}
+
+.logo {
+    margin-right: 20px;
+}
+
+.containerMain {
+    background-color: rgba(12, 12, 12, 0.5);
+    margin: auto;
+}
+
+.container {
+    color: white;
+}
+
+.button-ig {
+    margin-right: 30px;
+}
+
+.nadpis {
+    color: white;
+    font-family: 'Hedvig Letters Serif', serif;
+}
+
+.text-body-emphasis {
+    color: white;
+}
+
+.carousel {
+    margin-top: 70px;
+}
+
+.text-body-secondary {
+    color: white;
+}
+
+h1 {
+    font-family: 'Hedvig Letters Serif', serif;
+}
+
+p {
+    font-family: 'Hedvig Letters Serif', serif;
+}
+
+.btn-secondary {
+    font-family: 'Hedvig Letters Serif', serif;
+}
